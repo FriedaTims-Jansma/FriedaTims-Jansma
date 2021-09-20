@@ -1,5 +1,10 @@
 ### Hi there, I'm Frieda 👋
 
+
+Languages and Tools:
+![image](https://user-images.githubusercontent.com/82319323/134004300-fc39395f-dc3c-4eda-b898-82350aaa75e0.png)
+
+
 <!--
 **FriedaTims-Jansma/FriedaTims-Jansma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
