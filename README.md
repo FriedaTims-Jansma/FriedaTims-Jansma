@@ -1,9 +1,9 @@
 ### Hi there, I'm Frieda 👋
 
 
-**Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 
-![image](https://user-images.githubusercontent.com/82319323/134004300-fc39395f-dc3c-4eda-b898-82350aaa75e0.png)
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 
 <!--
