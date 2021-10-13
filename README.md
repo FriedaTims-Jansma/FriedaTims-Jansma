@@ -1,8 +1,10 @@
 ### Hi there, I'm Frieda 👋
 
 
-- 🔭 I’m currently working on "How to boost the profit of a marketing campaign?" with Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV) 
-- 🌱 I’m currently learning <b>Intermediate SQL</b>, Tableau, Google Cloud Platform (GCP). 
+- 🔭 I’m currently working on <b>"How to boost the profit of a marketing campaign?"<b> 
+    With Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV).
+  
+- 🌱 I’m currently learning Intermediate SQL, Tableau, Google Cloud Platform (GCP). 
 
 <h3 align="left">Languages and Tools:</h3>
 
