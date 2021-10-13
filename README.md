@@ -6,6 +6,9 @@
   
 - 🌱 I’m currently learning Intermediate SQL, Tableau, Google Cloud Platform (GCP). 
 
+- 👯 I’m looking for a job as data analyst or data scientist with a focus on marketing, customer journey & consumer behaviour. 
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
