@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on <b>"How to boost the profit of a marketing campaign?"</b> 
     With Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV).
   
-- 🌱 I’m currently learning Intermediate SQL, Tableau, Google Cloud Platform (GCP). 
+- 🌱 I’m currently learning Intermediate SQL, Tableau, Google Cloud Platform (GCP) & Google BigQuery. 
 
-- 👯 I’m looking for a job as data analyst or data scientist with a focus on marketing, customer journey & consumer behaviour. 
+- 👯 I’m looking for a job as data analyst or data scientist with a focus on online marketing, customer journey & consumer behaviour. 
 
 
 <h3 align="left">Languages and Tools:</h3>
