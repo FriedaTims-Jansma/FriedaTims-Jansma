@@ -1,8 +1,8 @@
 ### Hi there, I'm Frieda 👋
 
 
-- 🔭 I’m currently working on:
-<b> E-commerce - Users of a C2C fashion store</b>
+- 🔭 I’m currently working on:<br>
+<b> "E-commerce - Users of a C2C fashion store" </b>
     With SQL, Jupyter Notebook & Pandas. <br>
 <b>"How to boost the profit of a marketing campaign?"</b> 
     With Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV).
