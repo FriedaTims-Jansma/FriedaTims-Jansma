@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on:
-- <b> E-commerce - Users of a C2C fashion store</b>
+<b> E-commerce - Users of a C2C fashion store</b>
     With SQL, Jupyter Notebook & Pandas. 
-- <b>"How to boost the profit of a marketing campaign?"</b> 
+<b>"How to boost the profit of a marketing campaign?"</b> 
     With Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV).
   
 - 🌱 I’m currently learning Intermediate SQL, Tableau, Google Cloud Platform (GCP) & Google BigQuery. 
