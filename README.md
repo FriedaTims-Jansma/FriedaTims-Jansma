@@ -2,8 +2,9 @@
 
 
 - 🔭 I’m currently working on:<br>
-Analyzing a Kaggle dataset: <b> "E-commerce - Users of a C2C fashion store" </b>
+Analyzing a Kaggle datasets: <b> "E-commerce - Users of a C2C fashion store" </b>
     With SQL & Pandas. <br>
+    <br>&<br>
 <b>"How to boost the profit of a marketing campaign?"</b> 
     With Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV).
   
