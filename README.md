@@ -1,11 +1,9 @@
 ### Hi there, I'm Frieda 👋
 
 
-- 🔭 I’m currently working on:<br>
-Analyzing a Kaggle datasets: <b> "E-commerce - Users of a C2C fashion store" </b>
-    With SQL & Pandas. <br>
-    <br>&<br>
-<b>"How to boost the profit of a marketing campaign?"</b> 
+- 🔭 I’m currently working on analyzing Kaggle datasets:<br>
+• <b> "E-commerce - Users of a C2C fashion store" </b>With SQL & Pandas. <br>
+• <b>"How to boost the profit of a marketing campaign?"</b> 
     With Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV).
   
 - 🌱 I’m currently learning Intermediate SQL, Tableau, Google Cloud Platform (GCP) & Google BigQuery. 
