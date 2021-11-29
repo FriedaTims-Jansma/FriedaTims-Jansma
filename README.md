@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on analyzing Kaggle datasets:<br>
-• <b> "E-commerce - Users of a C2C fashion store" </b>With SQL & Pandas. <br>
+• <b> "E-commerce - Users of a C2C fashion store" </b>With SQL, Pandas & Tableau. <br>
 • <b>"How to boost the profit of a marketing campaign?"</b> 
     With Python; Random Forest Classifier(RFC) & Customer Lifetime Value(CLV).
   
